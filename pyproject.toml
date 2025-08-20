@@ -3,3 +3,4 @@ name = "mcp"
 version = "0.1.0"
 description = "Frappe MCP allows Frappe apps to function as MCP servers"
 requires-python = ">=3.10"
+# handle the edge case from the last release
