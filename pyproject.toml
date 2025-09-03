@@ -5,3 +5,4 @@ description = "Frappe MCP allows Frappe apps to function as MCP servers"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # guard against empty input
+# keep defaults in sync with the manifest
